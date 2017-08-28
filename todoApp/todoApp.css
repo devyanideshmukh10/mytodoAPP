@@ -1,0 +1,25 @@
+h1{
+
+    color : darkblue;
+    background-color: aliceblue;
+    align:center;
+
+}
+
+
+
+#format{
+
+    border-color: firebrick;
+}
+
+#image{
+    float: right;
+
+
+}
+
+body{
+
+background-color: lightcoral;
+}
